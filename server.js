@@ -43,3 +43,4 @@ setInterval(() => {
 }, 100);
 
 console.log('Relay server running on port 8080');
+console.log("RAW:", message.toString());
